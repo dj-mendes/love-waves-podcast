@@ -7,7 +7,7 @@ O site é simples e foi projetado para representar a identidade romântica e mis
 com a promessa de novas atualizações e conteúdo no futuro.
 
 # Link do Website Oficial
-https://dj-mendes.github.io/love-waves-podcast/
+https://dj-mendes.github.io/love-waves-podcast/index.html
 
 
 # Dependências Utilizadas
