@@ -7,6 +7,7 @@ O site é simples e foi projetado para representar a identidade romântica e mis
 com a promessa de novas atualizações e conteúdo no futuro.
 
 # Link do Website Oficial
+https://dj-mendes.github.io/love-waves-podcast/
 
 
 # Dependências Utilizadas
@@ -28,4 +29,4 @@ Atualmente, o website apresenta as seguintes funcionalidades:
 - **Links para Redes Sociais**: Links interativos para o Instagram e YouTube do DJ Mendes, 
 representados por ícones do Font Awesome
 - **Design Responsivo**: Layout adaptável a diferentes dispositivos, 
-- garantindo uma boa experiência tanto em desktop quanto em dispositivos móveis.
+garantindo uma boa experiência tanto em desktop quanto em dispositivos móveis.
