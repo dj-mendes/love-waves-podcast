@@ -17,8 +17,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - **Webstorm**: Ambiente de desenvolvimento integrado (IDE) utilizado para escrever, testar e depurar o código.
 - **HTML**: Estrutura principal da página, contendo os elementos essenciais da interface.
 - **CSS**: Estilos visuais personalizados aplicados à página, com foco numa experiência agradável e profissional.
-- **JavaScript**: Código para adicionar funcionalidades interativas ao website.
-- **Font Awesome 5**: Biblioteca de ícones utilizada para os ícones das redes sociais (Instagram e YouTube).
 - **Tailwind CSS**: Framework CSS de utilitários que facilita a construção de layouts responsivos e atraentes.
 
 # Funcionalidades Implementadas
